@@ -1,4 +1,4 @@
-package gmail.kuzmenko_dmv.OnlineOrder;
+package gmail.kuzmenko_dmv.onlineorder;
 
 public class OnlineOrderMain {
     public static void main(String[] args) {
